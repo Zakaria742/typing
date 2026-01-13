@@ -1,0 +1,3 @@
+/home/aira/Projects/typing/build/CMakeFiles/typing.dir
+/home/aira/Projects/typing/build/CMakeFiles/edit_cache.dir
+/home/aira/Projects/typing/build/CMakeFiles/rebuild_cache.dir
